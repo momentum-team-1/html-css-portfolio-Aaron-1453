@@ -20,3 +20,12 @@
 #middle-stuff {
     text-align: center;
 }
+
+#projects {
+justify-content: space-evenly;
+align-items: center;
+}
+
+.description {
+    width: 30%;
+}
