@@ -1,0 +1,11 @@
+header {
+    height: 300px;
+    background-color: red;
+    padding: 15px;
+}
+
+.main-container {
+    height: 100vh;
+    background-color: grey;
+    padding: 15px;
+}
